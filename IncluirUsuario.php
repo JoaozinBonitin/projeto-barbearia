@@ -6,14 +6,9 @@
     <link rel="stylesheet" href="./css/styles.css">
 </head>
 
-<body>
-    <style>
-        body{
-            background-image: url();
-        }
-    </style>
-  <div class="imagem-4">  
-    <div class="formulario ">
+<body class="imagem-4">
+  <div class="">  
+    <div class="formulario bg-dark">
     <h2 class="text-light">Cadastrar</h2>
     <form action="IncluirUsuarioOK.php" method="post">
   <div class="form-group">

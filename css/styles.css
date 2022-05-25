@@ -19,6 +19,7 @@
 }
 
 
+
 body, html{
     margin: 0;
     height: 100%;
@@ -37,11 +38,10 @@ body, html{
 .formulario{
     width: 460px;
     height: 330px;
-    margin: 100px auto 30px auto;
+    margin: 200px auto 30px auto;
     padding: 20px;
     border-radius: 15px;
-    opacity: 1.0;
-    background-color: #777;
+    opacity: 0.90;
 }
 .formulario h2{
     text-align: center;
