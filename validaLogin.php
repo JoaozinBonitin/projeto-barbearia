@@ -1,15 +1,15 @@
 <?php
-require_once 'connectionString.php';
+require_once './BDConnect/connectionString.php';
 
-$usuario = $_POST["usuario"];
+$email = $_POST["email"];
 $senha = $_POST["senha"];
 
-$stmt = $conn->prepare("SELECT * FROM tblusuario WHERE vchUsuario ='" . $usuario . "' and vchSenha = '" . $senha . "'");
+$stmt = $conn->prepare("SELECT * FROM tblusuario WHERE vchEmail ='" . $email . "' and vchSenha = '" . $senha . "'");
 
 $stmt->execute();
 $validaUsuario = false;
 if ($recordSet = $stmt->fetchAll()) {
-    header('location: index.php');
+    header('location: home.php');
 } else {
-    header('location: incluirUsuario.php');
+    header('location: sair.php');
 }
