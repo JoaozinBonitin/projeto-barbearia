@@ -13,7 +13,7 @@
 <body class="imagem-2">
     <div class="">
         <div class="formulario-entrar bg-dark">
-        <h2 class="text-light mb-3">Bem-vindo a Barber Fast!</h2>
+            <h2 class="text-light mb-3">Bem-vindo a Barber Fast!</h2>
             <form action="validaLogin.php" method="post">
                 <div class="form-group">
                     <label for="exampleInputEmail1" class="text-light">Email: </label>
