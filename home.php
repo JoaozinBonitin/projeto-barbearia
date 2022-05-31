@@ -21,11 +21,11 @@
   <link rel="stylesheet" href="assets3/css/Shopping-Grid.css">
   <link rel="stylesheet" href="assets3/css/styles.css">
 
-    <link rel="stylesheet" href="assets4/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets4/css/Articles-Badges.css">
-    <link rel="stylesheet" href="assets4/css/styles.css">
+  <link rel="stylesheet" href="assets4/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets4/css/Articles-Badges.css">
+  <link rel="stylesheet" href="assets4/css/styles.css">
 
-    
+
 
   <title>Home</title>
 </head>
@@ -102,7 +102,7 @@
                 <div style="max-width: 350px;">
                   <h1 class="text-uppercase fw-bold">Nossa Inspiração<br></h1>
                   <p class="my-3">Inspirada nas antigas barbearias nova-iorquinas típicas as décadas de 40, 50 e 60, a Barber Fast chega com a intenção de resgatar a cultura masculina, perdida ao longo dos anos, em que os homens se encontravam para fazer a barba à navalha e cortar os cabelos enquanto fumavam seus charutos, bebiam e conversavam.</p>
-                  
+
                 </div>
               </div>
             </div>
@@ -128,55 +128,55 @@
       Fundada em 1975 na Bela Vista, no coração de São Paulo, o dono Luiz e seu primo João decidiram de uma vez tornar a sua paixão um negócio. Os dois sempre tiveram um enorme prazer em cortar o cabelo e a barba de seus amigos e parentes, e apesar de serem amantes de sua profissão, eles sempre tiveram o sonho de se tornarem barbeiros profissionais e de abrirem sua própria barbearia. Definida com um local onde o cliente pudesse ter uma experiência diferenciada e um tratamento exclusivo e personalizado, a Barber Fast cresce e melhora cada vez mais, mantendo sempre vivo o legado dos primos Luiz e João.
     </p>
     <p class="pt-3 text-justify">
-    Em 2020, 2021 e 2022 fomos premiados pelo site “os 05 melhores” como a melhor barbearia da cidade de São Paulo. O projeto é assinado pela Mandril Arquitetura e uma parede de 13 metros foi preenchida com o trabalho das artistas plásticas Juliana M. Nersessian e Carolina Lopes Barbosa, da Lanó, que desenvolve arte em parede num estilo de desenho único.
+      Em 2020, 2021 e 2022 fomos premiados pelo site “os 05 melhores” como a melhor barbearia da cidade de São Paulo. O projeto é assinado pela Mandril Arquitetura e uma parede de 13 metros foi preenchida com o trabalho das artistas plásticas Juliana M. Nersessian e Carolina Lopes Barbosa, da Lanó, que desenvolve arte em parede num estilo de desenho único.
   </div>
 
   <div class="imagem-2">
-  <div class="container py-4 py-xl-5 card-inicio text-light bg-dark">
-        <div class="row mb-5 ">
-            <div class="col-md-8 col-xl-6 text-center mx-auto ">
-                <h2>Heading</h2>
-                <p class="w-lg-50">Curae hendrerit donec commodo hendrerit egestas tempus, turpis facilisis nostra nunc. Vestibulum dui eget ultrices.</p>
-            </div>
+    <div class="container py-4 py-xl-5 card-inicio text-light bg-dark">
+      <div class="row mb-5 ">
+        <div class="col-md-8 col-xl-6 text-center mx-auto ">
+          <h2>Feedback</h2>
+          <p class="w-lg-50">Visualize os feedbacks de algumas das maiores celebridades que passaram pela Barber Fast</p>
         </div>
-        <div class="row gy-4 row-cols-1 row-cols-md-2 row-cols-xl-3">
-            <div class="col">
-                <div class="p-4"><span class="badge rounded-pill bg-primary mb-2">Article</span>
-                    <h4>Lorem libero donec</h4>
-                    <p>Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
-                    <div class="d-flex"><img class="rounded-circle flex-shrink-0 me-3 fit-cover" width="50" height="50" src="./img/elon-icon.png">
-                        <div>
-                            <p class="fw-bold mb-0">John Smith</p>
-                            <p class="text-muted mb-0">Erat netus</p>
-                        </div>
-                    </div>
-                </div>
+      </div>
+      <div class="row gy-4 row-cols-1 row-cols-md-2 row-cols-xl-3">
+        <div class="col">
+          <div class="p-4"><span class="badge rounded-pill bg-primary mb-2">Feedback</span>
+            <h4>Atendimento maravilhoso!</h4>
+            <p>Fui bem recepcionado muito bem pelos funcionários do local, além do belo corte de cabelo e da ótima recepção, os preços são muitos acessíveis e ótima qualidade.</p>
+            <div class="d-flex"><img class="rounded-circle flex-shrink-0 me-3 fit-cover" width="50" height="50" src="./img/elon-icon.png">
+              <div>
+                <p class="fw-bold mb-0">Elon Musk</p>
+                <p class="text-muted mb-0">Owner Space X, Twitter,<br>Paypal, Tesla</p>
+              </div>
             </div>
-            <div class="col">
-                <div class="p-4"><span class="badge rounded-pill bg-primary mb-2">Article</span>
-                    <h4>Lorem libero donec</h4>
-                    <p>Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
-                    <div class="d-flex"><img class="rounded-circle flex-shrink-0 me-3 fit-cover" width="50" height="50" src="./img/neyney-icon.png">
-                        <div>
-                            <p class="fw-bold mb-0">John Smith</p>
-                            <p class="text-muted mb-0">Erat netus</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col">
-                <div class="p-4"><span class="badge rounded-pill bg-primary mb-2">Article</span>
-                    <h4>Lorem libero donec</h4>
-                    <p>Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
-                    <div class="d-flex"><img class="rounded-circle flex-shrink-0 me-3 fit-cover" width="50" height="50" src="./img/ronaldo-icon.png">
-                        <div>
-                            <p class="fw-bold mb-0">John Smith</p>
-                            <p class="text-muted mb-0">Erat netus</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
+          </div>
         </div>
+        <div class="col">
+          <div class="p-4"><span class="badge rounded-pill bg-primary mb-2">Feedback</span>
+            <h4>Uma ótima barbearia!!!</h4>
+            <p>Muito bem construída, muito bem localizada e com o atendimento impecável. Uma barbearia moderna com espaço interativo à disposição do cliente. E um bar com drinks.</p>
+            <div class="d-flex"><img class="rounded-circle flex-shrink-0 me-3 fit-cover" width="50" height="50" src="./img/neyney-icon.png">
+              <div>
+                <p class="fw-bold mb-0">Neymar Jr. (Menino Ney)</p>
+                <p class="text-muted mb-0">Camisa 10 do PSG e da Seleção Brasileira (Hexa 2022)</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="p-4"><span class="badge rounded-pill bg-primary mb-2">Feedback</span>
+            <h4>Satisfação garantida!!</h4>
+            <p>Tão satisfeito com a barbearia de alta qualidade, incluindo diversos cortes de cabelo para cabelos diferentes.</p>
+            <div class="d-flex"><img class="rounded-circle flex-shrink-0 me-3 fit-cover" width="50" height="50" src="./img/ronaldo-icon.png">
+              <div>
+                <p class="fw-bold mb-0">Ronaldo Fenômeno</p>
+                <p class="text-muted mb-0">Ex-jogador da Seleção Brasileira</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
   </div>
@@ -185,7 +185,7 @@
 
     <h3>Serviços</h3>
     <p class="pt-3 text-justify">
-    A Barbearia Barber Fast possui um time de profissionais experientes dedicados à barbearia clássica. Oferecemos aos nossos clientes serviços de corte de cabelo masculino, corte de cabelo infantil, corte com máquina e barba. Seguimos as boas práticas da barbearia tradicional, mantendo padrões altos de higiene e esterilização de equipamentos. Utilizamos no cuidado masculino produtos de qualidade excepcional. As melhores pomadas, balms, loções e óleos estão aliados às nossas  lâminas afiadas e toalhas quentes para cuidar do rosto de nossos clientes/do homem moderno.
+      A Barbearia Barber Fast possui um time de profissionais experientes dedicados à barbearia clássica. Oferecemos aos nossos clientes serviços de corte de cabelo masculino, corte de cabelo infantil, corte com máquina e barba. Seguimos as boas práticas da barbearia tradicional, mantendo padrões altos de higiene e esterilização de equipamentos. Utilizamos no cuidado masculino produtos de qualidade excepcional. As melhores pomadas, balms, loções e óleos estão aliados às nossas lâminas afiadas e toalhas quentes para cuidar do rosto de nossos clientes/do homem moderno.
     </p>
 
   </div>
@@ -396,7 +396,7 @@
   </section>
   <script src="assets/bootstrap/js/bootstrap.min.js"></script>
 
-  <footer id="contato"  class="text-white bg-dark">
+  <footer id="contato" class="text-white bg-dark">
     <div class="container py-4 py-lg-5">
       <div class="row justify-content-center">
         <div class="col-sm-4 col-md-3 text-center text-lg-start d-flex flex-column item">

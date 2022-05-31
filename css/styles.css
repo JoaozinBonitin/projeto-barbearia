@@ -1,7 +1,11 @@
 .imagem-1,
 .imagem-2,
 .imagem-3,
-.imagem-4, .imagem-5, .imagem-6,  .imagem-7, .imagem-8{
+.imagem-4,
+.imagem-5,
+.imagem-6,
+.imagem-7,
+.imagem-8 {
     height: 100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -24,20 +28,22 @@
 .imagem-4 {
     background-image: url(../img/teste-4.jpg);
 }
-.imagem-5{
+
+.imagem-5 {
     background-image: url(../img/imagem-5.jpg);
 }
-.imagem-6{
+
+.imagem-6 {
     background-image: url(../img/imagem-6.jpg);
 }
-.imagem-7{
+
+.imagem-7 {
     background-image: url(../img/imagem-7.jpg);
 }
-.imagem-8{
+
+.imagem-8 {
     background-image: url(../img/imagem-8.jpg);
 }
-
-
 
 body,
 html {
@@ -52,7 +58,6 @@ html {
     padding: 50px 80px;
 }
 
-
 .formulario {
     width: 460px;
     height: 630px;
@@ -61,7 +66,8 @@ html {
     border-radius: 15px;
     opacity: 0.90;
 }
-.formulario-entrar{
+
+.formulario-entrar {
     width: 460px;
     height: 330px;
     margin: 200px auto 30px auto;
@@ -82,10 +88,10 @@ html {
 
 .formulario a {
     position: absolute;
-    top: 84.6%;
+    top: 88.3%;
     left: 49%;
-
 }
+
 .formulario-entrar h2 {
     text-align: center;
 }
@@ -98,34 +104,36 @@ html {
 
 .formulario-entrar a {
     position: absolute;
-    top: 51.2%;
+    top: 53.3%;
     left: 50%;
-
 }
-.opacidade{
+
+.opacidade {
     opacity: 0.85;
 }
-.my-7{
+
+.my-7 {
     margin-top: 7rem!important;
 }
 
-.card-inicio{
+.card-inicio {
     width: 460px;
     height: 630px;
-    margin:  auto;
+    margin: auto;
     padding: 20px;
     opacity: 0.80;
 }
-.texto{
+
+.texto {
     text-align: center;
     margin-left: 16%;
 }
-html{
+
+html {
     scroll-behavior: smooth;
 }
+
 .my-6 {
     margin-top: 5rem!important;
     margin-bottom: 3rem!important;
 }
-
-
