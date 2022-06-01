@@ -58,8 +58,14 @@
         </li>
       </ul>
 
-      <form class="form-inline my-2 my-lg-0" style="padding-right: 8.5%;">
-        <a href="sair.php" class="btn btn-outline-light my-2 my-sm-0" type="submit">Sair</a>
+      <form class="form-inline my-2 my-lg-0 text-light" style="padding-right: 8.5%;">
+        <?php
+        session_start();
+        $usu = $_SESSION['nome_usuario'];
+
+        echo "<h4>Bem-vindo,  " . $usu . "</h4>";
+        ?>
+        <a href="sair.php" class="btn btn-outline-light my-2 my-sm-0 ml-4" type="submit">Sair</a>
       </form>
   </nav>
   </div>
@@ -376,7 +382,7 @@
                 </svg></div>
               <div class="px-2">
                 <h6 class="mb-0">Localização</h6>
-                <p class="mb-0">Alameda Tangamandápio, 666</p>
+                <p class="mb-0">Alameda Tangamandápio, 726</p>
               </div>
             </div>
           </div>

@@ -16,12 +16,12 @@
             <h2 class="text-light mb-3">Bem-vindo a Barber Fast!</h2>
             <form action="validaLogin.php" method="post">
                 <div class="form-group">
-                    <label for="exampleInputEmail1" class="text-light">Email: </label>
-                    <input type="text" class="form-control" id="email" aria-describedby="emailHelp" required name="email">
+                    <label for="exampleInputEmail1" class="text-light">Usuário: </label>
+                    <input type="text" class="form-control" id="usuario" aria-describedby="emailHelp" required name="usuario">                    
                 </div>
                 <div class="form-group">
                     <label for="exampleInputPassword1" class="text-light">Senha: </label>
-                    <input type="password" required class="form-control" id="pwd" name="senha">
+                    <input type="password" class="form-control" id="pwd" required name="senha">
                 </div>
                 <button type="submit" class="btn btn-primary">Login</button>
             </form>
