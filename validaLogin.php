@@ -1,10 +1,13 @@
 <?php
 require_once './BDConnect/connectionString.php';
 
-$email = $_POST["email"];
+$usuario = $_POST["usuario"];
 $senha = $_POST["senha"];
 
-$stmt = $conn->prepare("SELECT * FROM tblusuario WHERE vchEmail ='" . $email . "' and vchSenha = '" . $senha . "'");
+session_start();
+$_SESSION['nome_usuario'] = $usuario;
+
+$stmt = $conn->prepare("SELECT * FROM tblusuario WHERE vchUsuario ='" . $usuario . "' and vchSenha = '" . $senha . "'");
 
 $stmt->execute();
 $validaUsuario = false;

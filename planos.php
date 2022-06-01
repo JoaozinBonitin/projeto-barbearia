@@ -26,8 +26,18 @@
         <div class="collapse navbar-collapse" id="sandubao">
             <ul class="navbar-nav mr-auto">
             </ul>
+        </div>
+
+        <form class="form-inline my-2 my-lg-0 text-light" style="padding-right: 8.5%;">
+            <?php
+            session_start();
+            $usu = $_SESSION['nome_usuario'];
+
+            echo "<h4>Bem-vindo,  " . $usu . "</h4>";
+            ?>
+        </form>
     </nav>
-    </div>
+
     <div class="container py-4 py-xl-5">
         <div class="row mb-5">
             <div class="col-md-8 col-xl-6 text-center mx-auto">

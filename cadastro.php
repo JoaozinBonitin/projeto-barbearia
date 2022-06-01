@@ -13,24 +13,24 @@
       <form action="validaCadastro.php" method="post">
         <div class="form-group">
           <label for="exampleInputEmail1" class="text-light">Nome: </label>
-          <input type="text" class="form-control" id="nome" aria-describedby="emailHelp" name="nome">
+          <input type="text" class="form-control" id="nome" aria-describedby="emailHelp" required name="nome">
         </div>
         <div class="form-group">
           <label for="exampleInputEmail1" class="text-light">Sexo: </label>
-          <input type="text" class="form-control" id="Sexo" name="sexo">
+          <input type="text" class="form-control" id="Sexo" required name="sexo">
         </div>
         <div class="form-group">
           <label for="exampleInputEmail1" class="text-light">Usuário: </label>
-          <input type="text" class="form-control" id="usuario" name="usuario">
+          <input type="text" class="form-control" id="usuario" required name="usuario">
         </div>
         <div class="form-group">
           <label for="exampleInputEmail1" class="text-light">Email: </label>
-          <input type="text" class="form-control" id="email" name="email">
+          <input type="text" class="form-control" id="email" required name="email">
           <small id="emailHelp" class="form-text text-muted text-light">Nós nunca compartilharemos seu e-mail</small>
         </div>
         <div class="form-group">
           <label for="exampleInputPassword1" class="text-light">Senha:</label>
-          <input type="password" class="form-control" id="senha" name="senha">
+          <input type="password" class="form-control" id="senha" required name="senha">
           <small id="emailHelp" class="form-text text-muted text-light">Nunca compartilhe sua senha</small>
         </div>
         <button type="submit" class="btn btn-primary">Cadastrar</button>

@@ -1,9 +1,6 @@
 <?php
 require_once './BDConnect/connectionString.php';
 
-print_r($_POST);
-echo "<br><br>";
-
 $nome = $_POST["nome"];
 $sexo = $_POST["sexo"];
 $usuario = $_POST["usuario"];
